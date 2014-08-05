@@ -1,0 +1,4 @@
+phpMyAdmin/
+nbproject/
+inc/mysql_config.php
+!.gitignore
