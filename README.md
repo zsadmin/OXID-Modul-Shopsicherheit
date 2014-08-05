@@ -23,7 +23,7 @@ file types that are subject to verification by default (php js html tpl).
 The module makes the minimum load on the file system and does not affect the performance of the store. While checking the background check site is about 1 minute.
 
 > **Install:**
-1. Copy the files to your modules folder.
-2. Set the permissions on the folder "modules/zs_oxidprotect/log" to 777
-3. If you used the old version of this module, you should delete the table `zs_oxidprotect` from the database
-4. Activate module in admin area
+* Copy the files to your modules folder.
+* Set the permissions on the folder "modules/zs_oxidprotect/log" to 777
+* If you used the old version of this module, you should delete the table `zs_oxidprotect` from the database
+* Activate module in admin area
