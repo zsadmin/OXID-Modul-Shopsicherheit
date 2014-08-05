@@ -1,4 +1,4 @@
-Oxid Modul Shopsicherheit {#welcome}
+Oxid Modul Shopsicherheit 
 ===========
 
 Author
